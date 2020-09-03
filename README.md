@@ -1,12 +1,21 @@
+# Mike Callahan
 ### Hi there! Great Job 👋👋
 
 
+Current version: 34.75
+
+### Tech/Languages Known:
+
 ### Build Instructions for a Callahan Dev Morning:
-1. Preset build scheduled for `06:30 Mountain Time`
+1. Preset build scheduled for: `06:30 Mountain Time`
 2. Clone the repository: `git clone CallahanWorkDay`
 3. Navigate to the directory: `cd kitchen`
 4. Install the necessary dependencies: `callahan install coffee brkfst`
-5. Start workday with `callahan run standup`
+5. Start workday with: `callahan run standup`
+
+### Structure:
+
+
 <!--
 **Callmich/Callmich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
