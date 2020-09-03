@@ -5,6 +5,13 @@
 Current version: 34.75
 
 ### Tech/Languages Known:
+#### Back End:
+Express, Knex, Jest, SQL, Authentication with JWTs, Postgres, SQLite3, Postman, Relational Database Design, Deployment
+#### Front End:
+React, React-Native, Redux, Jest, JavaScript, HTML, CSS, Deployment
+#### CS Understanding:
+Data Structures, Algorithms, Python
+
 
 ### Build Instructions for a Callahan Dev Morning:
 1. Preset build scheduled for: `06:30 Mountain Time`
