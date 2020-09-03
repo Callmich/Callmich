@@ -14,7 +14,7 @@ Current version: 34.75
 5. Start workday with: `callahan run standup`
 
 ### Structure:
-
+![alt text](https://github.com/Callmich/Callmich/blob/master/designs/Developer.jpg)
 
 <!--
 **Callmich/Callmich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
