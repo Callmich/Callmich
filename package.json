@@ -1,0 +1,27 @@
+{
+  "name": "callmich",
+  "version": "1.0.0",
+  "description": "Current version: 34.75",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.5",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Callmich/Callmich.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Callmich/Callmich/issues"
+  },
+  "homepage": "https://github.com/Callmich/Callmich#readme"
+}
