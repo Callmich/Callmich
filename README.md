@@ -2,7 +2,7 @@
 ### Hi there! Great Job 👋👋
 
 
-Current version: 34.8
+Current version: 34.89
 
 ### Tech/Languages Known:
 * #### *Back End:* Express, Knex, Jest, SQL, Authentication with JWTs, Postgres, SQLite3, Postman, Relational Database Design, Deployment
