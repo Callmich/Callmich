@@ -1,13 +1,12 @@
 # Michael Callahan
 ### Hi there! Great Job 👋👋
 
-
 Current version: 34.92
 
 ### Tech/Languages Known:
 * #### *Back End:* Express, Knex, Jest, SQL, Authentication with JWTs, Postgres, SQLite3, Postman, Relational Database Design, Deployment
 * #### *Front End:* React, React-Native, Redux, Jest, JavaScript, HTML, CSS, Deployment
-* #### *CS Understanding:* Data Structures, Algorithms, Python
+* #### *CS Understanding:* Python, Data Structures, Algorithms
 
 
 ### Build Instructions for a Callahan Dev Morning:
